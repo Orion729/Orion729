@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **C++, DSA**
 
-- 📫 How to reach me **nakulbhar7308@gmail.com**
+- 📫 How to reach me : **nakulbhar7308@gmail.com**
 
-- ⚡ Fun fact **I m not always available, try your luck 🤝**
+- ⚡ Fun fact : **I m not always available, try your luck 🤝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
